@@ -1,0 +1,36 @@
+div {
+  font-size: 2rem;
+}
+.fixed {
+  position: fixed;
+  background-color: red;
+}
+#fixed1 {
+top: 1rem;
+left: 20px;
+}
+#fixed2 {
+  top: 2rem;
+right: 20px;
+}
+#fixed3 {
+top: 50%;
+left: 50%;
+}
+.relative {
+  position: relative;
+background-color: orange;;
+}
+.absolute {
+  position: absolute;
+  background-color: yellow;
+  top: 0px;
+}
+.sticky {
+  position: sticky;
+  background-color: green;
+}
+#sticky1 {
+
+}
+
